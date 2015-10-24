@@ -1,0 +1,34 @@
+
+a) Your name:Priya Sarkar
+
+b) Your University:IIT Bombay
+
+c) Roll ID(Student ID Number):120110059
+
+d) Select from  5 options regarding “Which exam you submit”.Option 3.
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+【Options for Question d)】
+(Option 1) 
+   Exam1_Java     ○
+   Exam1_C++      ×
+   Exam2_Java     ×                         
+(Option 2) 
+   Exam1_Java     ○
+   Exam1_C++      ×
+   Exam2_Java     ○ 
+(Option 3)
+   Exam1_Java     ×
+   Exam1_C++      ○YES
+   Exam2_Java     ×    
+(Option 4)  
+   Exam1_Java     ×
+   Exam1_C++      ○
+   Exam2_Java     ○   
+(Option 5)   
+   Exam1_Java     ×
+   Exam1_C++      ×
+   Exam2_Java     ○
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
